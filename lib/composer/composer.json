@@ -1,0 +1,16 @@
+{
+    "name": "wef/calendar",
+    "description": "Agenda da sala de reuniões",
+    "authors": [
+        {
+            "name": "Emmanuel e Jean, Transportes Marvel"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Classes\\": "../../class",
+            "Models\\": "../../model"
+        }
+    }
+}
